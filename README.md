@@ -39,7 +39,7 @@ The Proprioception Assessment and Treatment Device is a real-time solution desig
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/SantoshInchalakaranji/Proprioception.git
+   git clone https://github.com/NeerajPawar19/Proprioception.git
    ```
 
 2. Open the Android application project in Android Studio.
